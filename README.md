@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/nee00o">
+                    <img src="https://avatars.githubusercontent.com/u/177242947?v=4" width="100px;"
+                        alt="suraj" />
+                    <br />
+                    <sub>
+                        <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
